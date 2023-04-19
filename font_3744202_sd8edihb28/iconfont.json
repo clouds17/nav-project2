@@ -1,0 +1,30 @@
+{
+  "id": "3744202",
+  "name": "zuoye",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1440",
+      "name": "微软",
+      "font_class": "weiruan",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "29947",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "592835",
+      "name": "baidu",
+      "font_class": "baidu",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    }
+  ]
+}
